@@ -1,0 +1,54 @@
+{
+    "cliente": [
+        {
+            "123": {
+                "Nombre": "Qwe",
+                "Apellido": "Qwe",
+                "Direccion": "qwe",
+                "Telefono": 123,
+                "Categoria": "Nuevo cliente",
+                "Suscripciones activas": [
+                    0
+                ],
+                "Promociones": [
+                    0
+                ],
+                "Estado de pago": "Estable",
+                "Historial de suscripciones": [
+                    0
+                ],
+                "quejas": [
+                    0
+                ]
+            }
+        },
+        {
+            "1234": {
+                "Nombre": "Qwe",
+                "Apellido": "Qwe",
+                "Documento": 1234,
+                "Direccion": "qwe",
+                "Telefono": 123545,
+                "Categoria": "Nuevo cliente",
+                "Suscripciones activas": [
+                    0
+                ],
+                "Promociones": [
+                    0
+                ],
+                "Estado de pago": "Estable",
+                "Historial de suscripciones": [
+                    0
+                ],
+                "quejas": [
+                    0
+                ]
+            }
+        }
+    ],
+    "quejasidk": [
+        "qwe",
+        "qwe",
+        "qwe"
+    ]
+}
